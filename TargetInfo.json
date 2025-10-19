@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_Unreal_01_CI_Rom",
+			"Path": "..\\Source\\CPP_Unreal_01_CI_Rom.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_Unreal_01_CI_RomEditor",
+			"Path": "..\\Source\\CPP_Unreal_01_CI_RomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

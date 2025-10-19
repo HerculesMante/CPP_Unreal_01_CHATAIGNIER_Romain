@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\romai\\OneDrive\\Desktop\\travail\\UnrealProject\\CPP_Unreal_01_CI_Rom\\Source\\CPP_Unreal_01_CI_Rom\\CPP_Unreal_01_CI_Rom.Build.cs",
+		"C:\\Users\\romai\\OneDrive\\Desktop\\travail\\UnrealProject\\CPP_Unreal_01_CI_Rom\\Source\\CPP_Unreal_01_CI_Rom.Target.cs",
+		"C:\\Users\\romai\\OneDrive\\Desktop\\travail\\UnrealProject\\CPP_Unreal_01_CI_Rom\\Source\\CPP_Unreal_01_CI_RomEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
